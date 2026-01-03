@@ -9,3 +9,7 @@ Task 2: Student Grade Calculator (Java)
 This project is a console-based Student Grade Calculator written in Java, created as Task Two for the CodSoft internship.
 The program takes marks for multiple subjects, calculates the total marks, average percentage, and assigns a grade based on the average.
 
+Task 3: ATM Interface (Java)
+This project is a console-based ATM Interface developed using Core Java. Code is divided in two files- TaskThreePart1 and TaskThreePart2. TaskThreePart2 is the main class.
+It simulates basic ATM operations such as withdrawal, deposit, and balance checking through a simple menu-driven program.
+This project is created as part of the CodSoft Java Programming Internship.
